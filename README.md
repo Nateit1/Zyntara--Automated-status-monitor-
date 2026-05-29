@@ -60,5 +60,5 @@ open index.html
 
 ## 🔗 Links
 
-- 🌐 [Live Demo](https://nateit1.github.io/zyntara)
+- 🌐 [Live Demo](https://nateit1.github.io/Zyntara--Automated-status-monitor-/index-jsfiddle-7dshbn28-11.html)
 - 💻 [Live code](https://jsfiddle.net/Nst11/7dshbn28/10/)
