@@ -15,7 +15,8 @@ Zyntara lets you monitor multiple websites at once. Add any URL and it automatic
 
 ## 📸 Demo
 
-![Zyntara Demo](screenshots/demo.jpg)
+<img width="1125" height="428" alt="demo" src="https://github.com/user-attachments/assets/4c83a51f-56f2-4f3d-8839-e194076ac77e" />
+
 
 ---
 
@@ -60,4 +61,4 @@ open index.html
 ## 🔗 Links
 
 - 🌐 [Live Demo](https://nateit1.github.io/zyntara)
-- 💼 [Portfolio](https://af19o4udzm.mobirisesite.com/)
+- 💻 [Live code](https://jsfiddle.net/Nst11/7dshbn28/10/)
