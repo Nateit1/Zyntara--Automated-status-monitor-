@@ -1,1 +1,1 @@
-# Zyntara--Automated-status-monitor-
+# Zyntara-Automated-status-monitor-
